@@ -1,4 +1,6 @@
-<h2 align="left">🔭 Currently, I'm refining my expertise in Full Stack Development and Machine Learning, actively studying tools such as Power BI. 💬 Feel free to engage me in discussions on anything related to Full Stack Development or Machine Learning; I thrive on sharing knowledge and insights. 📫 For any inquiries or collaboration opportunities, please reach out to me via my socials given below.</h2>
+<h2 align="left">🔭 A Computer Science student committed to enhancing digital security and developing innovative applications.
+
+Beyond the screen, I find happiness in the notes of the piano and the colors of my paintings. </h2>
 
 ###
 
